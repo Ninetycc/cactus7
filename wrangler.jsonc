@@ -1,0 +1,8 @@
+  {
+    "name": "cactus7",
+    "compatibility_date": "2026-07-19",
+    "preview_urls": true,
+    "assets": {
+    "directory": "./dist"
+    }
+  }
